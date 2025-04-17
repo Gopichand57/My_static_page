@@ -14,4 +14,5 @@ To deploy a simple static HTML website using GitHub Pages.
 
 ## 🌐 Live Website
 [Click here to view](https://Gopichand57.github.io/My_static_page/)
-![Screenshot 2025-04-17 204004](https://github.com/user-attachments/assets/180490f0-77b7-4b5f-861b-8fd22acb5667)
+![Screenshot 2025-04-17 204542](https://github.com/user-attachments/assets/60920567-65e3-45c4-a488-f0f537c85463)
+
